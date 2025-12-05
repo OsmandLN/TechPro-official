@@ -1,6 +1,6 @@
 <template>
   <footer>
-    <span class="contributor-name">All right reserved by Osmand ‧ 2022</span>
+    <span class="contributor-name">All right reserved by Osmand ‧ 2022-</span>
   </footer>
 </template>
 
